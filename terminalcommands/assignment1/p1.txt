@@ -1,0 +1,9 @@
+if [ -d "test" ] 
+then
+    echo "Directory test exists." 
+else
+    
+    echo "Error: test does not exists."
+    mkdir test
+fi
+

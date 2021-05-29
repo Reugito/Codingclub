@@ -1,0 +1,3 @@
+var="tqyttq"
+
+echo $var
